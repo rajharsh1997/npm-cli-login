@@ -1,5 +1,5 @@
 {
-  "name": "npm-cli-login",
+  "name": "rajharsh/npm-cli-login",
   "version": "1.0.0",
   "description": "Fork of npm-cli-login",
   "main": "index.js",
